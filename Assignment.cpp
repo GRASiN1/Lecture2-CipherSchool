@@ -1,0 +1,10 @@
+#include<iostream>      // This is a header
+
+using namespace std;        // std make sure that cout is a part of iostream
+
+int main()             // we have written a main "function"
+{
+    cout<<"Hello world";        
+
+    return 0;
+}
